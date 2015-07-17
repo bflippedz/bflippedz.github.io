@@ -188,13 +188,13 @@ nav a#pull {
 }
 .banner h1 span{
 	display:inline-block;
-	background:#AB6F80;
+	background:#FF3030;
 	padding:0.3em 0.5em;
 	margin-bottom: 0.1em;
 }
 .banner h1 label{
 	display:inline-block;
-	background:#AB6F80;
+	background:#FFA500;
 	padding:0.3em 0.5em;
 }
 /*---welcome-note---*/
